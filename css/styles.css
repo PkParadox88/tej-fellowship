@@ -1,0 +1,19 @@
+#tej
+{color: red;}
+
+.main
+{
+  background-color: #42f2f5;
+  margin: auto;
+  width: 30%;
+  text-align: center;
+  padding: 15px;
+  border-radius: 12px;
+}
+
+#number
+{
+  background-color: white;
+  padding: 4px;
+  border-radius: 3px;
+}
